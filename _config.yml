@@ -36,13 +36,13 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
   - title                                 : Join @vtastic
-    description                           : Join the program and get access today.
+    description                           : Get access to your private muse today.
     link                                  : /join
     link_text                             : Join
     fontawesome_icon_name                 : credit-card
 
   - title                                 : Your Muse
-    description                           : Read carefully and know your muse ~V.
+    description                           : Read carefully to know your muse ~V.
     link                                  : /v
     link_text                             : Read
     fontawesome_icon_name                 : eye
