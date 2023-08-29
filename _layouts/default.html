@@ -37,14 +37,14 @@
                             </svg>
                             <img class="appIconLarge" src="{{ site.app_icon | relative_url }}">
                         </div>
-                        <!--<div class="appNamePriceContainer">
+                        <div class="appNamePriceContainer">
                             <h1 class="appName">
                                 {{ site.app_name }}
                             </h1>
                             <h2 class="appPrice">
                                 {{ site.app_price }}
                             </h2>
-                        </div>-->
+                        </div>
                         <div class="appDescriptionContainer">
                             <p class ="appDescription">
                                 {{ site.app_description }}
@@ -56,6 +56,9 @@
                             {% endif %}
                             <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="assets/appstore.png"></a>
                         </div>-->
+                        <div class="downloadButtonsContainer">
+                            <a href="/join" class="joinnow">Join Now</a>
+                        </div>
                     </div>
                     {% include features.html %}
                     {% include footer.html %}
