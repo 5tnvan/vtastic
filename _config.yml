@@ -37,19 +37,19 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Your Muse
-    description                           : Few things before we get started.
+    description                           : Get to know your muse before we get started.
     link                                  : /v
     link_text                             : Visit
     fontawesome_icon_name                 : magic
     
   - title                                 : Join @vtastic
-    description                           : Join the program and engage today.
+    description                           : Join the program and start engaging today.
     link                                  : /join
-    link_text                             : Purchase
+    link_text                             : Join
     fontawesome_icon_name                 : mobile
 
   - title                                 : Code of Conduct
-    description                           : Rules for responsible and appropriate behavior.
+    description                           : Read rules for responsible and appropriate behavior.
     link                                  : /conduct
     link_text                             : Read
     fontawesome_icon_name                 : play-circle
