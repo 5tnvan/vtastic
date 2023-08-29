@@ -50,7 +50,7 @@ ________
 3. Be appriciative of [~V](https://pages.github.com/) time, attention and affection.
 4. Stay in line with rules.
 
-
+<br>
 
 ## `Membership revocation`
 
