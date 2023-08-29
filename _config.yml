@@ -35,22 +35,21 @@ mastodon_link                             :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  - title                                 : About ~V
-    description                           : Get to know your private muse
-    link                                  : ../v
-    fontawesome_icon_name                 : magic
     
   - title                                 : Join @vtastic
     description                           : Join the program and get access today.
-    link                                  : ../join
+    link                                  : /join
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Adhere to rules
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    link                                  : ../conduct
+  - title                                 : Code of Conduct
+    description                           : Rules for responsible and appropriate behavior.
+    link                                  : /conduct
     fontawesome_icon_name                 : play-circle
-
+    
+  - title                                 : Privacy Policy
+    description                           : Safeguarding privacy and discretion.
+    link                                  : /v
+    fontawesome_icon_name                 : magic
 
 
 # Theme Settings
