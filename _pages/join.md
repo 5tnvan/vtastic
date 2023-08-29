@@ -26,21 +26,21 @@ ________
 - No replies
 - No communication
 
-<button class="button-65 button-66" role="button">Contact support to purchase</button>
+<button onClick="location.href='../support'" class="button-65 button-66" role="button">Contact support to purchase</button>
 
 #### $325 recurring membership gets you:
 - Access to [~V](../v) private Instagram
 - Commmunication: text ONLY
 - No custom requests
 
-<button class="button-65 button-66" role="button">Contact support to purchase</button>
+<button onClick="location.href='../support'" class="button-65 button-66" role="button">Contact support to purchase</button>
 
 #### Being a [$VTASTIC](../vtastic) holder AND a recurring member gets you:
 - Access to [~V](../v) private Instagram
 - Commmunication: text & voice
 - Custom requests accepted
 
-<button class="button-65 button-66" role="button">Contact support to purchase</button>
+<button onClick="location.href='../support'" class="button-65 button-66" role="button">Contact support to purchase</button>
 
 ________
 <br>
@@ -51,7 +51,7 @@ ________
 
 - Failure to maintain a designated amount of $VTASTIC will result in the revocation your membership.
 
-[~V](../v) reserves the rights to revoke your membership at anytime, thus revoking your access to the [@vtastic](https://vantastic.site) program permanently.
+[~V](../v) reserves the rights to revoke your membership at anytime, thus revoking your access to the [@vtastic](https://vtastic.site) program permanently.
 
 
 
