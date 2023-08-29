@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rules
+title: Join Now
 include_in_header: true
 ---
 
