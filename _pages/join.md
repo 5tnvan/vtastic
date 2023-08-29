@@ -46,19 +46,19 @@ ________
 ## `Guidelines`
 
 1. Be nice and courteous.
-2. Be respectful and descreet.
-3. Be appriciative of [~V](https://pages.github.com/) time, attention and affection.
-4. Stay in line with rules.
+2. Be respectful and discreet.
+3. Be appreciative of [~V](https://pages.github.com/) time, attention and affection.
+4. Adhere to rules.
 
 <br>
 
 ## `Membership revocation`
 
-Failure to pay recurring membership will revoke your membership.
+Failure to pay recurring membership will result in the revocation your membership.
 
-Failure to hold a set amount of $VTASTIC will revoke your membership.
+Failure to maintain a designated amount of $VTASTIC will result in the revocation your membership.
 
-[~V](https://pages.github.com/) reserve the rights to revoke your membership at anytime, thus ending your access and communciation with the [@vtastic](https://pages.github.com/) program permanently.
+[~V](https://pages.github.com/) reserves the rights to revoke your membership at anytime, thus revoking your access to the [@vtastic](https://pages.github.com/) program permanently.
 
 
 
