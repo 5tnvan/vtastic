@@ -6,8 +6,6 @@ include_in_header: false
 
 # Support
 
-
-## Intro
 [@vtastic](https://pages.github.com/) is a member-only program.
 
 ID | Membership | Price | Payment Method

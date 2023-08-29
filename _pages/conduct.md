@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Join Now
-include_in_header: true
+title: Code of Conduct
+include_in_header: false
 ---
 
 # Code of Conduct: 

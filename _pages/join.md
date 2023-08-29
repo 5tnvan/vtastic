@@ -6,8 +6,6 @@ include_in_header: true
 
 # Join Now: 
 
-
-## Intro
 [@vtastic](https://pages.github.com/) is a member-only program.
 
 ID | Membership | Price | Payment Method
@@ -42,15 +40,6 @@ ________
 - [Contact support to purchase](../support)
 
 ________
-<br>
-
-## `Guidelines`
-
-1. Be nice and courteous.
-2. Be respectful and discreet.
-3. Be appreciative of [~V](../v) time, attention and affection.
-4. Adhere to code of conduct.
-
 <br>
 
 ## `Membership revocation`
