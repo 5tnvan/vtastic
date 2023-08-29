@@ -38,14 +38,17 @@ features                                  :
 
   - title                                 : About ~V
     description                           : Get to know your private muse
+    link                                  : ../v
     fontawesome_icon_name                 : magic
     
   - title                                 : Join @vtastic
     description                           : Join the program and get access today.
+    link                                  : ../join
     fontawesome_icon_name                 : mobile
 
   - title                                 : Adhere to rules
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    link                                  : ../conduct
     fontawesome_icon_name                 : play-circle
 
 
