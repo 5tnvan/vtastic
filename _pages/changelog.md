@@ -42,17 +42,20 @@ ________
 ________
 <br>
 
-### `Rules`
+## Guidelines
 
 1. Be nice and courteous.
 2. Be respectful and descreet.
 3. Be appriciative of [~V](https://pages.github.com/) time, attention and affection.
 4. Stay in line with rules.
 
-### Membership revocation
+
+## Membership revocation
 
 Failure to pay recurring membership will revoke your membership.
+
 Failure to hold a set amount of $VTASTIC will revoke your membership.
+
 [~V](https://pages.github.com/) reserve the rights to revoke your membership at anytime, thus ending your access and communciation with the [@vtastic](https://pages.github.com/) program permanently.
 
 
