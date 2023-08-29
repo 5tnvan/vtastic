@@ -26,21 +26,24 @@ ________
 - No replies
 - No communication
 - [Contact support to purchase](../support)
-<button target="_self" class="button-65" role="button">Contact support to purchase</button>
+
+<button class="button-65" role="button">Contact support to purchase</button>
 
 #### $325 recurring membership gets you:
 - Access to [~V](../v) private Instagram
 - Commmunication: text ONLY
 - No custom requests
 - [Contact support to purchase](../support)
-<button target="_self" class="button-65" role="button">Contact support to purchase</button>
+
+<button class="button-65" role="button">Contact support to purchase</button>
 
 #### Being a [$VTASTIC](../vtastic) holder AND a recurring member gets you:
 - Access to [~V](../v) private Instagram
 - Commmunication: text & voice
 - Custom requests accepted
 - [Contact support to purchase](../support)
-<button target="_self" class="button-65" role="button">Contact support to purchase</button>
+
+<button class="button-65" role="button">Contact support to purchase</button>
 
 ________
 <br>
