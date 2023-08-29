@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Join Now
-include_in_header: true
+title: Support
+include_in_header: false
 ---
 
-# Join Now: 
+# Support
 
 
 ## Intro
@@ -21,45 +21,23 @@ VTA15 | $VTASTIC holder | minimum $1500 | $VTASTIC
 ________
 <br>
 
-## `Purchase membership`
+## `Purchase Membership`
 
-#### $175 one-time access gets you:
-- Access to [~V](../v) private Instagram
-- No replies
-- No communication
-- [Contact support to purchase](../support)
+To purchase membership, send an email to support@vantastic.site with:
 
-#### $325 recurring membership gets you:
-- Access to [~V](../v) private Instagram
-- Commmunication: text ONLY
-- No custom requests
-- [Contact support to purchase](../support)
+Header: Membership ID
+Body: Membership ID, Membership Name, Payment Method and your IG handle.
 
-#### Being a [$VTASTIC](../vtastic) holder AND a recurring member gets you:
-- Access to [~V](../v) private Instagram
-- Commmunication: text & voice
-- Custom requests accepted
-- [Contact support to purchase](../support)
+Support will get back to you with an invoice within 48 hours.
 
 ________
 <br>
 
-## `Guidelines`
+## `Help & Troubleshoot`
 
-1. Be nice and courteous.
-2. Be respectful and discreet.
-3. Be appreciative of [~V](../v) time, attention and affection.
-4. Adhere to code of conduct.
+Support will only attend to membership issues.
 
-<br>
-
-## `Membership revocation`
-
-Failure to pay recurring membership will result in the revocation your membership.
-
-Failure to maintain a designated amount of $VTASTIC will result in the revocation your membership.
-
-[~V](../v) reserves the rights to revoke your membership at anytime, thus revoking your access to the [@vtastic](https://vantastic.site) program permanently.
+Support reserves the right not to attend to issues outside of membership.
 
 
 
