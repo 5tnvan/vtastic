@@ -6,6 +6,7 @@ include_in_header: true
 
 # Rules: 
 
+
 [@vtastic](https://pages.github.com/) is a member-only program.
 
 | Membership | Price |
@@ -19,7 +20,7 @@ include_in_header: true
 ________
 <br>
 
-### `Purchase membership`
+## `Purchase membership`
 
 #### $175 one-time access gets you:
 - Access to private Instagram
@@ -42,7 +43,7 @@ ________
 ________
 <br>
 
-## Guidelines
+## `Guidelines`
 
 1. Be nice and courteous.
 2. Be respectful and descreet.
@@ -50,7 +51,8 @@ ________
 4. Stay in line with rules.
 
 
-## Membership revocation
+
+## `Membership revocation`
 
 Failure to pay recurring membership will revoke your membership.
 
