@@ -6,27 +6,25 @@ include_in_header: false
 
 ~V
 
-~V is the first initial of her real name.
+[~V](../v) is the first initial of her real name.
 
-~V is a muse, a modern age SB.
+[~V](../v) is a muse, a modern age SB.
 
-~V is selective, she chooses men WORTHY of her attention.
+[~V](../v) is selective, she chooses men WORTHY of her attention.
 
-~V is here to be provided for.
+[~V](../v) is here to be provided for.
 
-~V is a stand-out, modest but bold, a woman of integrity and inteligence.
+[~V](../v) is a stand-out, modest but bold, a woman of integrity and inteligence.
 
-~V is a fighter.
+[~V](../v) is a fighter.
 
-~V didn't have anything handed to her.
+[~V](../v) didn't have anything handed to her.
 
-~V knows what she brings to the table.
+[~V](../v) knows what she brings to the table.
 
-~V knows her worth.
+[~V](../v) knows her worth.
 
-~V shares what she chooses to share.
-
-~V also likes gifts.
+[~V](../v) will share what she chooses to share.
 
 Play by the rules and you shall be rewarded with her affection.
 

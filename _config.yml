@@ -37,7 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Your Muse
-    description                           : Read carefully and get to know your muse.
+    description                           : Read carefully and get to know your muse ~V.
     link                                  : /v
     link_text                             : Read
     fontawesome_icon_name                 : eye
