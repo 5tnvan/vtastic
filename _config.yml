@@ -39,16 +39,19 @@ features                                  :
   - title                                 : Join @vtastic
     description                           : Join the program and get access today.
     link                                  : /join
+    link_text                             : Purchase
     fontawesome_icon_name                 : mobile
 
   - title                                 : Code of Conduct
     description                           : Rules for responsible and appropriate behavior.
     link                                  : /conduct
+    link_text                             : Read
     fontawesome_icon_name                 : play-circle
     
   - title                                 : Privacy Policy
     description                           : Safeguarding privacy and discretion.
     link                                  : /v
+    link_text                             : Read
     fontawesome_icon_name                 : magic
 
 
