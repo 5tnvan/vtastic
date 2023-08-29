@@ -9,15 +9,17 @@ include_in_header: false
 
 ## `To Purchase Membership`
 
-To purchase membership, send an email to support@vantastic.site with:
+To purchase membership
+
+1. Send an email to support@vantastic.site with:
 
 > Header: Membership ID
 
 > Body: Membership ID, Membership Name, Payment Method and your IG handle.
 
-Support will get back to you with an *invoice*.
+2. Support will get back to you with an *invoice*.
 
-Upon succesful purchase, [~V](../v) Instagram handle will be given to you.
+3. Upon successful purchase, [~V](../v) Instagram handle will be given to you for engagement.
 
 ________
 <br>
