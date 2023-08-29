@@ -27,7 +27,7 @@ ________
 - No communication
 - [Contact support to purchase](../support)
 
-<button class="button-65" role="button">Contact support to purchase</button>
+<a href="../support" class="button-65 button-66">Contact support to purchase</a>
 
 #### $325 recurring membership gets you:
 - Access to [~V](../v) private Instagram
