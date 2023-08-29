@@ -27,11 +27,12 @@ include_in_header: false
 
 ## `What's not allowed`
 
-Asking for or sharing sexually implicit and explicit photos is a violation of [@vtastic](https://vantastic.site) Code of Conduct.
+Asking for sexually implicit and explicit photos is a violation of Code of Conduct.
+Sharing sexually implicit and explicit photos is a violation of Code of Conduct.
 
 <br>
 
-Harmful behaviour and repeated violations will result in a permanent ban and/or being reported to law enforcement.
+Repeated violations will result in a permanent ban and.
 
 
 
