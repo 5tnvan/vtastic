@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Your Muse
+title: ~V
 include_in_header: true
 ---
 
