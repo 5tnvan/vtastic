@@ -6,7 +6,7 @@ include_in_header: true
 
 # Join Now: 
 
-[@vtastic](https://pages.github.com/) is a member-only program.
+[@vtastic](../) is a member-only program.
 
 ID | Membership | Price | Payment Method
 --- | --- | --- |
@@ -44,9 +44,9 @@ ________
 
 ## `Membership revocation`
 
-Failure to pay recurring membership will result in the revocation your membership.
+- Failure to pay recurring membership will result in the revocation your membership.
 
-Failure to maintain a designated amount of $VTASTIC will result in the revocation your membership.
+- Failure to maintain a designated amount of $VTASTIC will result in the revocation your membership.
 
 [~V](../v) reserves the rights to revoke your membership at anytime, thus revoking your access to the [@vtastic](https://vantastic.site) program permanently.
 
