@@ -25,7 +25,6 @@ ________
 - Access to [~V](../v) private Instagram
 - No replies
 - No communication
-- [Contact support to purchase](../support)
 
 <button class="button-65 button-66" role="button">Contact support to purchase</button>
 
@@ -33,7 +32,6 @@ ________
 - Access to [~V](../v) private Instagram
 - Commmunication: text ONLY
 - No custom requests
-- [Contact support to purchase](../support)
 
 <button class="button-65 button-66" role="button">Contact support to purchase</button>
 
@@ -41,7 +39,6 @@ ________
 - Access to [~V](../v) private Instagram
 - Commmunication: text & voice
 - Custom requests accepted
-- [Contact support to purchase](../support)
 
 <button class="button-65 button-66" role="button">Contact support to purchase</button>
 
