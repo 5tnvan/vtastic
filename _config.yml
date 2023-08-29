@@ -35,9 +35,15 @@ mastodon_link                             :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
+
+  - title                                 : Your Muse
+    description                           : Few things before we get started.
+    link                                  : /v
+    link_text                             : Visit
+    fontawesome_icon_name                 : magic
     
   - title                                 : Join @vtastic
-    description                           : Join the program and get access today.
+    description                           : Join the program and engage today.
     link                                  : /join
     link_text                             : Purchase
     fontawesome_icon_name                 : mobile
@@ -47,13 +53,6 @@ features                                  :
     link                                  : /conduct
     link_text                             : Read
     fontawesome_icon_name                 : play-circle
-    
-  - title                                 : Privacy Policy
-    description                           : Safeguarding privacy and discretion.
-    link                                  : /v
-    link_text                             : Read
-    fontawesome_icon_name                 : magic
-
 
 # Theme Settings
 topbar_color                              : "#000000"
