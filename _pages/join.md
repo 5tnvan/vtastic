@@ -4,18 +4,19 @@ title: Join Now
 include_in_header: true
 ---
 
-# Rules: 
+# Join Now: 
 
 
+## Intro
 [@vtastic](https://pages.github.com/) is a member-only program.
 
-| Membership | Price |
-| --- | --- |
-| One-time access | $175 |
-| Monthy Recurring | $325 |
-| $VTASTIC holder | minumum $1500 |
+ID | Membership | Price | Payment Method
+--- | --- | --- |
+OTA175 | One-time access | $175 | Bank Transfer, BTC, ETH, USDC
+MR325 | Monthy Recurring | $325 | Bank Transfer, BTC, ETH, USDC
+VTA15 | $VTASTIC holder | minimum $1500 | $VTASTIC
 
-[~V](https://pages.github.com/) communicates with you via a private [Instagram](https://pages.github.com/) account ONLY.
+[~V](../v) communicates with you via her private [Instagram](https://instagram.com/) account ONLY.
 
 ________
 <br>
@@ -23,22 +24,22 @@ ________
 ## `Purchase membership`
 
 #### $175 one-time access gets you:
-- Access to [~V](https://pages.github.com/) private Instagram
+- Access to [~V](../v) private Instagram
 - No replies
 - No communication
-- [Purchase here](https://pages.github.com/)
+- [Contact support to purchase](../support)
 
 #### $325 recurring membership gets you:
-- Access to [~V](https://pages.github.com/) private Instagram
-- Commmunication: text only
+- Access to [~V](../v) private Instagram
+- Commmunication: text ONLY
 - No custom requests
-- [Purchase here](https://pages.github.com/)
+- [Contact support to purchase](../support)
 
-#### Being a [$VTASTIC](https://pages.github.com/) holder AND a paid member gets you:
+#### Being a [$VTASTIC](../vtastic) holder AND a recurring member gets you:
 - Access to [~V](../v) private Instagram
 - Commmunication: text & voice
 - Custom requests accepted
-- [Purchase here](https://pages.github.com/)
+- [Contact support to purchase](../support)
 
 ________
 <br>
@@ -47,8 +48,8 @@ ________
 
 1. Be nice and courteous.
 2. Be respectful and discreet.
-3. Be appreciative of [~V](https://pages.github.com/) time, attention and affection.
-4. Adhere to rules.
+3. Be appreciative of [~V](../v) time, attention and affection.
+4. Adhere to code of conduct.
 
 <br>
 
@@ -58,7 +59,7 @@ Failure to pay recurring membership will result in the revocation your membershi
 
 Failure to maintain a designated amount of $VTASTIC will result in the revocation your membership.
 
-[~V](https://pages.github.com/) reserves the rights to revoke your membership at anytime, thus revoking your access to the [@vtastic](https://pages.github.com/) program permanently.
+[~V](../v) reserves the rights to revoke your membership at anytime, thus revoking your access to the [@vtastic](https://vantastic.site) program permanently.
 
 
 
