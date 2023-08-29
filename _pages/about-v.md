@@ -12,7 +12,5 @@
 
 ~V also likes gifts.
 
-~V will reward you with her time, 
-
-~V doesn't not appriciate begging or aggressive behaviour.
+Play by the rules and you shall be rewarded with her affection.
 
