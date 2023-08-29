@@ -10,9 +10,9 @@ playstore_link                            :                                     
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : @vantastic                              # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : from $175                               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Curious? Get access to your private muse today.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -37,13 +37,13 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Your Muse
-    description                           : Read carefully to get to know your muse.
+    description                           : Read carefully and get to know your muse.
     link                                  : /v
     link_text                             : Read
     fontawesome_icon_name                 : eye
     
   - title                                 : Join @vtastic
-    description                           : Join the program and start engaging today.
+    description                           : Join the program and engage today.
     link                                  : /join
     link_text                             : Join
     fontawesome_icon_name                 : credit-card
