@@ -14,7 +14,7 @@ OTA175 | One-time access | $175 | Bank Transfer, BTC, ETH, USDC
 MR325 | Monthy Recurring | $325 | Bank Transfer, BTC, ETH, USDC
 VTA15 | $VTASTIC holder | minimum $1500 | $VTASTIC
 
-[~V](../v) communicates with you via her private [Instagram](https://instagram.com/) account ONLY.
+[~V](../v) communicates with members via her private [Instagram](https://instagram.com/) account ONLY.
 
 ________
 <br>
