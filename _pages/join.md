@@ -13,7 +13,7 @@ include_in_header: true
 | --- | --- |
 | One-time access | $175 |
 | Monthy Recurring | $325 |
-| [$VTASTIC](https://pages.github.com/) holder | minumum $1500 |
+| $VTASTIC holder | minumum $1500 |
 
 [~V](https://pages.github.com/) communicates with you via a private [Instagram](https://pages.github.com/) account ONLY.
 
@@ -35,7 +35,7 @@ ________
 - [Purchase here](https://pages.github.com/)
 
 #### Being a [$VTASTIC](https://pages.github.com/) holder AND a paid member gets you:
-- Access to [~V](https://pages.github.com/) private Instagram
+- Access to [~V](../v) private Instagram
 - Commmunication: text & voice
 - Custom requests accepted
 - [Purchase here](https://pages.github.com/)
