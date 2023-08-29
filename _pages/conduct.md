@@ -25,7 +25,13 @@ include_in_header: false
 
 <br>
 
-Harmful behaviour will result in a permanent ban and/or being reported to law enforcement.
+## `What's not allowed`
+
+Asking for or sharing sexually implicit and explicit photos is a violation of [@vtastic](https://vantastic.site) Code of Conduct.
+
+<br>
+
+Harmful behaviour and repeated violations will result in a permanent ban and/or being reported to law enforcement.
 
 
 
