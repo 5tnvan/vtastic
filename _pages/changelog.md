@@ -6,7 +6,6 @@ include_in_header: true
 
 # Rules: 
 
-### `Intro`
 [@vtastic](https://pages.github.com/) is a member-only program.
 
 | Membership | Price |
@@ -22,24 +21,22 @@ ________
 
 ### `Purchase membership`
 
-#### $175/one-time access gets you:
+#### $175 one-time access gets you:
 - Access to private Instagram
 - No replies
 - No communication
 - [Purchase here](https://pages.github.com/)
 
-#### $325/monthly gets you:
+#### $325 recurring membership gets you:
 - Access to private Instagram
-- IG comments
-- Texting only
-- No requests
+- Commmunication: text only
+- No custom requests
 - [Purchase here](https://pages.github.com/)
 
-#### $1500 $VTASTIC membership token gets you:
-- Being a paid member and owning at least $1500 $VTASTIC tokens gets you:
+#### Being a $VTASTIC holder AND a paid member gets you:
 - Access to private Instagram
-- IG comments
-- Text, photos, voice messages on a private messaging app
+- Commmunication: text & voice
+- Custom requests accepted
 - [Purchase here](https://pages.github.com/)
 
 ________
@@ -50,10 +47,12 @@ ________
 1. Be nice and courteous.
 2. Be respectful and descreet.
 3. Be appriciative of [~V](https://pages.github.com/) time, attention and affection.
+4. Stay in line with rules.
+
+### Membership revocation
 
 Failure to pay recurring membership will revoke your membership.
 Failure to hold a set amount of $VTASTIC will revoke your membership.
-
 [~V](https://pages.github.com/) reserve the rights to revoke your membership at anytime, thus ending your access and communciation with the [@vtastic](https://pages.github.com/) program permanently.
 
 
