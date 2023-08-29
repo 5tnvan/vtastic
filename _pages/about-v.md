@@ -1,3 +1,9 @@
+---
+layout: page
+title: Rules
+include_in_header: true
+---
+
 ~V
 
 ~V is the first initial of her real name.
