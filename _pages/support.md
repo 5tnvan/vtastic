@@ -16,6 +16,9 @@ To purchase membership, send an email to support@vantastic.site with:
 > Body: Membership ID, Membership Name, Payment Method and your IG handle.
 
 Support will get back to you with an *invoice*.
+
+Upon succesful purchase, [~V](../v) Instagram handle will be given to you.
+
 ________
 <br>
 
