@@ -33,7 +33,7 @@ ________
 
 <button onClick="location.href='../support'" class="button-65 button-66" role="button">Contact support to purchase</button>
 
-#### Being a [$VTASTIC](../vtastic) holder AND a recurring member gets you:
+#### Being a [$VTASTIC](../) holder AND a recurring member gets you:
 - Access to [~V](../v) private Instagram
 - Commmunication: text & voice
 - Custom requests accepted
