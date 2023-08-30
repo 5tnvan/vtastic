@@ -4,7 +4,7 @@ title: Join Now
 include_in_header: true
 ---
 
-# Join Now 
+# Becoming a member 
 
 [@vtastic](../) is a member-only program.
 
@@ -13,8 +13,6 @@ ID | Membership | Price | Payment Method
 OTA175 | One-time access | $175 | Bank Transfer, BTC, ETH, USDC
 MR325 | Monthy Recurring | $325 | Bank Transfer, BTC, ETH, USDC
 VTA15 | $VTASTIC holder | minimum $1500 | $VTASTIC
-
-[~V](../v) communicates with members via her private [Instagram](https://instagram.com/) account ONLY.
 
 ________
 <br>

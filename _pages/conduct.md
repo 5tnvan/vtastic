@@ -28,11 +28,12 @@ include_in_header: false
 ## `What's not allowed`
 
 Asking for sexually implicit and explicit photos is a violation of Code of Conduct.
+
 Sharing sexually implicit and explicit photos is a violation of Code of Conduct.
 
 <br>
 
-Repeated violations will result in a permanent ban and.
+Repeated violations will result in a permanent ban.
 
 
 
