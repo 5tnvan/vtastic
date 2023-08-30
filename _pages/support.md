@@ -11,11 +11,11 @@ include_in_header: false
 
 To purchase membership
 
-1/ Send an email to pay@vtastic.site with:
+1/ Send an email to [pay@vtastic.site](mailto:pay@vtastic.site) with:
 
-Subject >Membership ID
+Subject: *Membership ID*
 
-Message >Membership ID, Membership Name, Payment Method and your IG handle.
+Message: *Membership ID, Membership Name, Your Payment Method and your IG username.*
 
 2/ Support will get back to you with an *invoice*.
 
@@ -28,12 +28,9 @@ ________
 
 ## `Help & Troubleshoot`
 
-support@vtastic.site will only attend to membership issues.
+[pay@vtastic.site](mailto:pay@vtastic.site) will only attend to membership issues.
 
 You might not receive a reply on issues outside of membership.
-
-<button onClick="location.href='mailto:support@vtastic.site'" class="button-65 button-66" role="button">Email support@vtastic.site</button>
-
 
 
 
