@@ -43,6 +43,14 @@ ________
 ________
 <br>
 
+
+## `Communication`
+
+[~V](../v) communicates with members via Instagram ONLY.
+
+________
+<br>
+
 ## `Membership revocation`
 
 - Failure to pay recurring membership will result in the revocation your membership.
